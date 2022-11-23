@@ -48,8 +48,8 @@ No modules.
 | Name | Description | Type | Default | Required |
 |------|-------------|------|---------|:--------:|
 | <a name="input_instance_type"></a> [instance\_type](#input\_instance\_type) | The instance type to use | `string` | n/a | yes |
-| <a name="input_memory_for_app_pct"></a> [memory\_for\_app\_pct](#input\_memory\_for\_app\_pct) | The percent of the instance memory to allocate to the application (default: 80) | `number` | `80` | no |
-| <a name="input_memory_for_os_mb"></a> [memory\_for\_os\_mb](#input\_memory\_for\_os\_mb) | The minimum amount of memory that must be available for the base Operation System | `number` | `256` | no |
+| <a name="input_memory_for_app_pct"></a> [memory\_for\_app\_pct](#input\_memory\_for\_app\_pct) | The percent of the instance memory to allocate to the application | `number` | `80` | no |
+| <a name="input_memory_for_os_mb"></a> [memory\_for\_os\_mb](#input\_memory\_for\_os\_mb) | The minimum amount of memory that must be available for the base Operating System | `number` | `384` | no |
 
 ## Outputs
 

@@ -10,7 +10,7 @@ variable "memory_for_app_pct" {
 }
 
 variable "memory_for_os_mb" {
-  description = "The minimum amount of memory that must be available for the base Operation System"
+  description = "The minimum amount of memory that must be available for the base Operating System"
   type        = number
   default     = 384
 }
