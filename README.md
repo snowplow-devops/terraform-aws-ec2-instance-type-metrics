@@ -62,7 +62,7 @@ No modules.
 
 # Copyright and license
 
-The Terraform AWS EC2 Instance Type Metrics project is Copyright 2022-2022 Snowplow Analytics Ltd.
+The Terraform AWS EC2 Instance Type Metrics project is Copyright 2022-current Snowplow Analytics Ltd.
 
 Licensed under the [Apache License, Version 2.0][license] (the "License");
 you may not use this software except in compliance with the License.
